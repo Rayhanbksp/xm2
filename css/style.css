@@ -1,0 +1,72 @@
+.col-md-4 img {
+	margin-top: 16px;
+}
+
+.social {
+	margin-top: 25px;
+}
+
+.social ul {
+	list-style:none;
+}
+
+.social li {
+	display: inline;
+	margin-left: 26px;
+}
+
+
+
+.banner {
+    background-image: url(../img/pic2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+}
+
+#mid {
+}
+#mid h1 {
+	text-align: center;
+	padding-top: 165px;
+	color: gray;
+}
+
+#mid h2 {
+	margin-top: 8px;
+	text-align: center;
+	font-size: 28px;
+	color: gray;
+	/* padding-bottom: 37px; */
+	margin-bottom: 38px;
+}
+
+.btn {
+    padding: 9px;
+    margin-left: 586px;
+    background-color: #8bc34a;
+    font-size: 23px;
+    margin-bottom: 218px;
+    margin-top: 17px;
+}
+.capabili {margin-top: 115px;
+	margin-left: 122px;
+	margin-right: 122px;
+	margin-bottom: 170px;
+}
+.capabili img {
+    margin-left: 402px;
+    margin-bottom: 36px;
+}
+
+.capabili h1 {
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 35px;
+}
+
+.capabili p {
+	text-align: center;
+	margin-bottom: 39px;
+}
+/*capabili  section close*/
